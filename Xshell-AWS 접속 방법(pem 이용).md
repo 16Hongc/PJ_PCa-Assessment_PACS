@@ -33,17 +33,19 @@
 
 1. PEM 준비
 
-   ![image-20200501130354316](images/image-20200501130354316.png)
+   ![pem](images/pem.png)
 
    
 
 2. xshell 다운 및 설치 ( https://www.netsarang.com/ko/ )
 
+   <img src="images/win.png" alt="win" style="zoom:67%;" />
+
    
 
 3. 세션창에서 '새로 만들기'
 
-   <img src="images/image-20200501125655704.png" alt="image-20200501125655704" style="zoom:50%;" />
+   
 
 4. '연결' 항목 
 
@@ -107,13 +109,12 @@
 
 2. jupyter notebook 실행
 
-   * jupyter notebook --ip=아이피 --port=포트번호 
+   * jupyter notebook --ip=0.0.0.0 --port=포트번호 
    
    * --no-browser 추가 시, 따로 창이 뜨지 않음
    
      
    
-
 3. token 확인 및 복사
 
    
